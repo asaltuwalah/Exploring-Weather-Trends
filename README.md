@@ -10,7 +10,7 @@ You will examine local and worldwide temperature data and compare temperature pa
 
 ### Instructions
 
-    Your task will be to construct a graphic and write a report outlining the similarities and contrasts between worldwide temperature trends and temperature trends in the nearest large city to your home. To accomplish this, follow the instructions below:
+    Your task will be to construct a graphic and write a report outlining the similarities and contrasts between worldwide temperature trends and temperature trends in the         nearest large city to your home. To accomplish this, follow the instructions below:
 
     - Take the data from the database and extract it. In the following section, there is a database-connected workspace.You'll need to export temperature data for the entire         planet as well as the nearest large city to your home. In the city list table, you'll find a list of cities and nations. You'll need to construct a SQL query to                 communicate with the database.
     - Create a SQL query to extract data at the city level. Export to a CSV file.
